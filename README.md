@@ -71,6 +71,7 @@ C-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0020 |[Valid Parentheses](src/main/c/g0001_0100/s0020_valid_parentheses/Solution.c)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, String, Stack, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 
 #### Day 10 Tree
 
@@ -103,6 +104,7 @@ C-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0015 |[3Sum](src/main/c/g0001_0100/s0015_3sum/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Big_O_Time_O(n\*log(n))_Space_O(n^2) | 47 | 87.75
 
 #### Day 2 Array
 
@@ -232,6 +234,7 @@ C-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0019 |[Remove Nth Node From End of List](src/main/c/g0001_0100/s0019_remove_nth_node_from_end_of_list/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Two_Pointers, Linked_List, Big_O_Time_O(L)_Space_O(L) | 0 | 100.00
 
 #### Day 6 Sliding Window
 
@@ -295,11 +298,13 @@ C-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0015 |[3Sum](src/main/c/g0001_0100/s0015_3sum/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Big_O_Time_O(n\*log(n))_Space_O(n^2) | 47 | 87.75
 
 #### Day 4 Two Pointers
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0011 |[Container With Most Water](src/main/c/g0001_0100/s0011_container_with_most_water/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Greedy, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
 
 #### Day 5 Sliding Window
 
@@ -335,6 +340,7 @@ C-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0017 |[Letter Combinations of a Phone Number](src/main/c/g0001_0100/s0017_letter_combinations_of_a_phone_number/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Backtracking, Big_O_Time_O(4^n)_Space_O(n) | 0 | 100.00
 
 #### Day 12 Dynamic Programming
 
@@ -1042,6 +1048,7 @@ C-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0019 |[Remove Nth Node From End of List](src/main/c/g0001_0100/s0019_remove_nth_node_from_end_of_list/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Two_Pointers, Linked_List, Big_O_Time_O(L)_Space_O(L) | 0 | 100.00
 
 #### Day 4 Linked List
 
@@ -1135,12 +1142,15 @@ C-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0007 |[Reverse Integer](src/main/c/g0001_0100/s0007_reverse_integer/Solution.c)| Medium | Top_Interview_Questions, Math | 0 | 100.00
+| 0009 |[Palindrome Number](src/main/c/g0001_0100/s0009_palindrome_number/Solution.c)| Easy | Math | 0 | 100.00
 
 #### Udemy Strings
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0003 |[Longest Substring Without Repeating Characters](src/main/c/g0001_0100/s0003_longest_substring_without_repeating_characters/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n)_Space_O(1) | 15 | 29.93
+| 0020 |[Valid Parentheses](src/main/c/g0001_0100/s0020_valid_parentheses/Solution.c)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, String, Stack, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 | 0005 |[Longest Palindromic Substring](src/main/c/g0001_0100/s0005_longest_palindromic_substring/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 2 | 97.74
 
 #### Udemy Binary Search
@@ -1158,6 +1168,7 @@ C-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0015 |[3Sum](src/main/c/g0001_0100/s0015_3sum/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Big_O_Time_O(n\*log(n))_Space_O(n^2) | 47 | 87.75
 
 #### Udemy Famous Algorithm
 
@@ -1198,11 +1209,13 @@ C-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0010 |[Regular Expression Matching](src/main/c/g0001_0100/s0010_regular_expression_matching/Solution.c)| Hard | Top_Interview_Questions, String, Dynamic_Programming, Recursion, Big_O_Time_O(m\*n)_Space_O(m\*n) | 0 | 100.00
 
 #### Udemy Backtracking/Recursion
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0017 |[Letter Combinations of a Phone Number](src/main/c/g0001_0100/s0017_letter_combinations_of_a_phone_number/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Backtracking, Big_O_Time_O(4^n)_Space_O(n) | 0 | 100.00
 
 #### Udemy Bit Manipulation
 
@@ -1218,6 +1231,16 @@ C-based LeetCode algorithm problem solutions, regularly updated.
 
 | #    |      Title     | Difficulty  | Tag         | Time, ms | Time, %
 |------|----------------|-------------|-------------|----------|---------
+| 0020 |[Valid Parentheses](src/main/c/g0001_0100/s0020_valid_parentheses/Solution.c)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, String, Stack, Data_Structure_I_Day_9_Stack_Queue, Udemy_Strings, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
+| 0019 |[Remove Nth Node From End of List](src/main/c/g0001_0100/s0019_remove_nth_node_from_end_of_list/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Two_Pointers, Linked_List, Algorithm_I_Day_5_Two_Pointers, Level_2_Day_3_Linked_List, Big_O_Time_O(L)_Space_O(L) | 0 | 100.00
+| 0017 |[Letter Combinations of a Phone Number](src/main/c/g0001_0100/s0017_letter_combinations_of_a_phone_number/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Backtracking, Algorithm_II_Day_11_Recursion_Backtracking, Udemy_Backtracking/Recursion, Big_O_Time_O(4^n)_Space_O(n) | 0 | 100.00
+| 0015 |[3Sum](src/main/c/g0001_0100/s0015_3sum/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Data_Structure_II_Day_1_Array, Algorithm_II_Day_3_Two_Pointers, Udemy_Two_Pointers, Big_O_Time_O(n\*log(n))_Space_O(n^2) | 47 | 87.75
+| 0011 |[Container With Most Water](src/main/c/g0001_0100/s0011_container_with_most_water/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Greedy, Two_Pointers, Algorithm_II_Day_4_Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
+| 0010 |[Regular Expression Matching](src/main/c/g0001_0100/s0010_regular_expression_matching/Solution.c)| Hard | Top_Interview_Questions, String, Dynamic_Programming, Recursion, Udemy_Dynamic_Programming, Big_O_Time_O(m\*n)_Space_O(m\*n) | 0 | 100.00
+| 0009 |[Palindrome Number](src/main/c/g0001_0100/s0009_palindrome_number/Solution.c)| Easy | Math, Udemy_Integers | 0 | 100.00
+| 0008 |[String to Integer (atoi)](src/main/c/g0001_0100/s0008_string_to_integer_atoi/Solution.c)| Medium | Top_Interview_Questions, String | 0 | 100.00
+| 0007 |[Reverse Integer](src/main/c/g0001_0100/s0007_reverse_integer/Solution.c)| Medium | Top_Interview_Questions, Math, Udemy_Integers | 0 | 100.00
+| 0006 |[Zigzag Conversion](src/main/c/g0001_0100/s0006_zigzag_conversion/Solution.c)| Medium | String | 0 | 100.00
 | 0005 |[Longest Palindromic Substring](src/main/c/g0001_0100/s0005_longest_palindromic_substring/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Data_Structure_II_Day_9_String, Algorithm_II_Day_14_Dynamic_Programming, Dynamic_Programming_I_Day_17, Udemy_Strings, Big_O_Time_O(n)_Space_O(n) | 2 | 97.74
 | 0004 |[Median of Two Sorted Arrays](src/main/c/g0001_0100/s0004_median_of_two_sorted_arrays/Solution.c)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Divide_and_Conquer, Big_O_Time_O(log(min(N,M)))_Space_O(1) | 0 | 100.00
 | 0003 |[Longest Substring Without Repeating Characters](src/main/c/g0001_0100/s0003_longest_substring_without_repeating_characters/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Algorithm_I_Day_6_Sliding_Window, Level_2_Day_14_Sliding_Window/Two_Pointer, Udemy_Strings, Big_O_Time_O(n)_Space_O(1) | 15 | 29.93
