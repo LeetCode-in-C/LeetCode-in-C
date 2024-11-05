@@ -31,6 +31,7 @@ C-based LeetCode algorithm problem solutions, regularly updated.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0136 |[Single Number](src/main/c/g0101_0200/s0136_single_number/Solution.c)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Bit_Manipulation, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
+| 0169 |[Majority Element](src/main/c/g0101_0200/s0169_majority_element/Solution.c)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Sorting, Counting, Divide_and_Conquer, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
 | 0015 |[3Sum](src/main/c/g0001_0100/s0015_3sum/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Big_O_Time_O(n\*log(n))_Space_O(n^2) | 47 | 87.75
 
 #### Day 2 Array
@@ -89,6 +90,7 @@ C-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0160 |[Intersection of Two Linked Lists](src/main/c/g0101_0200/s0160_intersection_of_two_linked_lists/Solution.c)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Two_Pointers, Linked_List, Big_O_Time_O(M+N)_Space_O(1) | 33 | 78.91
 
 #### Day 12 Linked List
 
@@ -106,6 +108,7 @@ C-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0155 |[Min Stack](src/main/c/g0101_0200/s0155_min_stack/MinStack.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Stack, Design, Big_O_Time_O(1)_Space_O(N) | 0 | 100.00
 
 #### Day 15 Tree
 
@@ -155,6 +158,7 @@ C-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0189 |[Rotate Array](src/main/c/g0101_0200/s0189_rotate_array/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
 
 #### Day 3 Two Pointers
 
@@ -198,6 +202,7 @@ C-based LeetCode algorithm problem solutions, regularly updated.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0021 |[Merge Two Sorted Lists](src/main/c/g0001_0100/s0021_merge_two_sorted_lists/Solution.c)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Big_O_Time_O(m+n)_Space_O(m+n) | 0 | 100.00
+| 0206 |[Reverse Linked List](src/main/c/g0201_0300/s0206_reverse_linked_list/Solution.c)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
 
 #### Day 11 Recursion Backtracking
 
@@ -210,6 +215,7 @@ C-based LeetCode algorithm problem solutions, regularly updated.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0070 |[Climbing Stairs](src/main/c/g0001_0100/s0070_climbing_stairs/Solution.c)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Memoization, Big_O_Time_O(n)_Space_O(n) | 1 | 100.00
+| 0198 |[House Robber](src/main/c/g0101_0200/s0198_house_robber/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 
 #### Day 13 Bit Manipulation
 
@@ -236,6 +242,7 @@ C-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0153 |[Find Minimum in Rotated Sorted Array](src/main/c/g0101_0200/s0153_find_minimum_in_rotated_sorted_array/Solution.c)| Medium | Top_100_Liked_Questions, Array, Binary_Search, Big_O_Time_O(log_N)_Space_O(log_N) | 0 | 100.00
 
 #### Day 3 Two Pointers
 
@@ -258,6 +265,7 @@ C-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0200 |[Number of Islands](src/main/c/g0101_0200/s0200_number_of_islands/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Depth_First_Search, Breadth_First_Search, Matrix, Union_Find, Big_O_Time_O(M\*N)_Space_O(M\*N) | 14 | 96.18
 
 #### Day 7 Breadth First Search Depth First Search
 
@@ -410,6 +418,7 @@ C-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0153 |[Find Minimum in Rotated Sorted Array](src/main/c/g0101_0200/s0153_find_minimum_in_rotated_sorted_array/Solution.c)| Medium | Top_100_Liked_Questions, Array, Binary_Search, Big_O_Time_O(log_N)_Space_O(log_N) | 0 | 100.00
 
 ### Binary Search II
 
@@ -530,6 +539,7 @@ C-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0198 |[House Robber](src/main/c/g0101_0200/s0198_house_robber/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 
 #### Day 4
 
@@ -548,6 +558,7 @@ C-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0152 |[Maximum Product Subarray](src/main/c/g0101_0200/s0152_maximum_product_subarray/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
 
 #### Day 7
 
@@ -790,6 +801,7 @@ C-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0155 |[Min Stack](src/main/c/g0101_0200/s0155_min_stack/MinStack.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Stack, Design, Big_O_Time_O(1)_Space_O(N) | 0 | 100.00
 
 #### Day 19
 
@@ -807,6 +819,7 @@ C-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0200 |[Number of Islands](src/main/c/g0101_0200/s0200_number_of_islands/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Depth_First_Search, Breadth_First_Search, Matrix, Union_Find, Big_O_Time_O(M\*N)_Space_O(M\*N) | 14 | 96.18
 
 #### Day 2 Matrix Related Problems
 
@@ -942,6 +955,7 @@ C-based LeetCode algorithm problem solutions, regularly updated.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0021 |[Merge Two Sorted Lists](src/main/c/g0001_0100/s0021_merge_two_sorted_lists/Solution.c)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Big_O_Time_O(m+n)_Space_O(m+n) | 0 | 100.00
+| 0206 |[Reverse Linked List](src/main/c/g0201_0300/s0206_reverse_linked_list/Solution.c)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
 
 #### Day 4 Linked List
 
@@ -976,6 +990,7 @@ C-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0200 |[Number of Islands](src/main/c/g0101_0200/s0200_number_of_islands/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Depth_First_Search, Breadth_First_Search, Matrix, Union_Find, Big_O_Time_O(M\*N)_Space_O(M\*N) | 14 | 96.18
 
 #### Day 10 Dynamic Programming
 
@@ -1032,6 +1047,7 @@ C-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0148 |[Sort List](src/main/c/g0101_0200/s0148_sort_list/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Sorting, Two_Pointers, Linked_List, Divide_and_Conquer, Merge_Sort, Big_O_Time_O(log(N))_Space_O(log(N)) | 3 | 100.00
 
 #### Day 5 Greedy
 
@@ -1074,11 +1090,13 @@ C-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0198 |[House Robber](src/main/c/g0101_0200/s0198_house_robber/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 
 #### Day 13 Dynamic Programming
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0152 |[Maximum Product Subarray](src/main/c/g0101_0200/s0152_maximum_product_subarray/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
 
 #### Day 14 Sliding Window/Two Pointer
 
@@ -1097,6 +1115,7 @@ C-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0155 |[Min Stack](src/main/c/g0101_0200/s0155_min_stack/MinStack.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Stack, Design, Big_O_Time_O(1)_Space_O(N) | 0 | 100.00
 
 #### Day 17 Interval
 
@@ -1145,6 +1164,7 @@ C-based LeetCode algorithm problem solutions, regularly updated.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0033 |[Search in Rotated Sorted Array](src/main/c/g0001_0100/s0033_search_in_rotated_sorted_array/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
+| 0153 |[Find Minimum in Rotated Sorted Array](src/main/c/g0101_0200/s0153_find_minimum_in_rotated_sorted_array/Solution.c)| Medium | Top_100_Liked_Questions, Array, Binary_Search, Big_O_Time_O(log_N)_Space_O(log_N) | 0 | 100.00
 
 #### Udemy Arrays
 
@@ -1152,6 +1172,7 @@ C-based LeetCode algorithm problem solutions, regularly updated.
 |-|-|-|-|-|-
 | 0121 |[Best Time to Buy and Sell Stock](src/main/c/g0101_0200/s0121_best_time_to_buy_and_sell_stock/Solution.c)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
 | 0001 |[Two Sum](src/main/c/g0001_0100/s0001_two_sum/Solution.c)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Big_O_Time_O(n)_Space_O(n), AI_can_be_used_to_solve_the_task | 2 | 99.56
+| 0189 |[Rotate Array](src/main/c/g0101_0200/s0189_rotate_array/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
 | 0055 |[Jump Game](src/main/c/g0001_0100/s0055_jump_game/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
 | 0075 |[Sort Colors](src/main/c/g0001_0100/s0075_sort_colors/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
 | 0041 |[First Missing Positive](src/main/c/g0001_0100/s0041_first_missing_positive/Solution.c)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
@@ -1168,6 +1189,7 @@ C-based LeetCode algorithm problem solutions, regularly updated.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0053 |[Maximum Subarray](src/main/c/g0001_0100/s0053_maximum_subarray/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Divide_and_Conquer, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
+| 0169 |[Majority Element](src/main/c/g0101_0200/s0169_majority_element/Solution.c)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Sorting, Counting, Divide_and_Conquer, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
 
 #### Udemy Sorting Algorithms
 
@@ -1191,7 +1213,9 @@ C-based LeetCode algorithm problem solutions, regularly updated.
 | 0024 |[Swap Nodes in Pairs](src/main/c/g0001_0100/s0024_swap_nodes_in_pairs/Solution.c)| Medium | Top_100_Liked_Questions, Linked_List, Recursion, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
 | 0142 |[Linked List Cycle II](src/main/c/g0101_0200/s0142_linked_list_cycle_ii/Solution.c)| Medium | Top_100_Liked_Questions, Hash_Table, Two_Pointers, Linked_List, Big_O_Time_O(N)_Space_O(1) | 4 | 81.55
 | 0141 |[Linked List Cycle](src/main/c/g0101_0200/s0141_linked_list_cycle/Solution.c)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Two_Pointers, Linked_List, Big_O_Time_O(N)_Space_O(1) | 6 | 92.85
+| 0206 |[Reverse Linked List](src/main/c/g0201_0300/s0206_reverse_linked_list/Solution.c)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
 | 0021 |[Merge Two Sorted Lists](src/main/c/g0001_0100/s0021_merge_two_sorted_lists/Solution.c)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Big_O_Time_O(m+n)_Space_O(m+n) | 0 | 100.00
+| 0160 |[Intersection of Two Linked Lists](src/main/c/g0101_0200/s0160_intersection_of_two_linked_lists/Solution.c)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Two_Pointers, Linked_List, Big_O_Time_O(M+N)_Space_O(1) | 33 | 78.91
 | 0138 |[Copy List with Random Pointer](src/main/c/g0101_0200/s0138_copy_list_with_random_pointer/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Linked_List, Big_O_Time_O(N)_Space_O(N) | 4 | 91.18
 | 0025 |[Reverse Nodes in k-Group](src/main/c/g0001_0100/s0025_reverse_nodes_in_k_group/Solution.c)| Hard | Top_100_Liked_Questions, Linked_List, Recursion, Big_O_Time_O(n)_Space_O(k) | 0 | 100.00
 | 0146 |[LRU Cache](src/main/c/g0101_0200/s0146_lru_cache/LRUCache.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Design, Linked_List, Doubly_Linked_List, Big_O_Time_O(1)_Space_O(capacity) | 37 | 91.67
@@ -1215,12 +1239,15 @@ C-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0200 |[Number of Islands](src/main/c/g0101_0200/s0200_number_of_islands/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Depth_First_Search, Breadth_First_Search, Matrix, Union_Find, Big_O_Time_O(M\*N)_Space_O(M\*N) | 14 | 96.18
 
 #### Udemy Dynamic Programming
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0139 |[Word Break](src/main/c/g0101_0200/s0139_word_break/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Dynamic_Programming, Trie, Memoization, Big_O_Time_O(M+max\*N)_Space_O(M+N+max) | 0 | 100.00
+| 0152 |[Maximum Product Subarray](src/main/c/g0101_0200/s0152_maximum_product_subarray/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
+| 0198 |[House Robber](src/main/c/g0101_0200/s0198_house_robber/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 | 0070 |[Climbing Stairs](src/main/c/g0001_0100/s0070_climbing_stairs/Solution.c)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Memoization, Big_O_Time_O(n)_Space_O(n) | 1 | 100.00
 | 0064 |[Minimum Path Sum](src/main/c/g0001_0100/s0064_minimum_path_sum/Solution.c)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Matrix, Big_O_Time_O(m\*n)_Space_O(m\*n) | 0 | 100.00
 | 0072 |[Edit Distance](src/main/c/g0001_0100/s0072_edit_distance/Solution.c)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n2) | 0 | 100.00
@@ -1245,6 +1272,7 @@ C-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0155 |[Min Stack](src/main/c/g0101_0200/s0155_min_stack/MinStack.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Stack, Design, Big_O_Time_O(1)_Space_O(N) | 0 | 100.00
 
 ### Data Structure I
 
@@ -1293,6 +1321,7 @@ C-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0206 |[Reverse Linked List](src/main/c/g0201_0300/s0206_reverse_linked_list/Solution.c)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
 
 #### Day 9 Stack Queue
 
@@ -1334,6 +1363,16 @@ C-based LeetCode algorithm problem solutions, regularly updated.
 
 | #    |      Title     | Difficulty  | Tag         | Time, ms | Time, %
 |------|----------------|-------------|-------------|----------|---------
+| 0206 |[Reverse Linked List](src/main/c/g0201_0300/s0206_reverse_linked_list/Solution.c)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Data_Structure_I_Day_8_Linked_List, Algorithm_I_Day_10_Recursion_Backtracking, Level_1_Day_3_Linked_List, Udemy_Linked_List, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
+| 0200 |[Number of Islands](src/main/c/g0101_0200/s0200_number_of_islands/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Depth_First_Search, Breadth_First_Search, Matrix, Union_Find, Algorithm_II_Day_6_Breadth_First_Search_Depth_First_Search, Graph_Theory_I_Day_1_Matrix_Related_Problems, Level_1_Day_9_Graph/BFS/DFS, Udemy_Graph, Big_O_Time_O(M\*N)_Space_O(M\*N) | 14 | 96.18
+| 0198 |[House Robber](src/main/c/g0101_0200/s0198_house_robber/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Algorithm_I_Day_12_Dynamic_Programming, Dynamic_Programming_I_Day_3, Level_2_Day_12_Dynamic_Programming, Udemy_Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
+| 0189 |[Rotate Array](src/main/c/g0101_0200/s0189_rotate_array/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Two_Pointers, Algorithm_I_Day_2_Two_Pointers, Udemy_Arrays, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
+| 0169 |[Majority Element](src/main/c/g0101_0200/s0169_majority_element/Solution.c)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Sorting, Counting, Divide_and_Conquer, Data_Structure_II_Day_1_Array, Udemy_Famous_Algorithm, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
+| 0160 |[Intersection of Two Linked Lists](src/main/c/g0101_0200/s0160_intersection_of_two_linked_lists/Solution.c)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Two_Pointers, Linked_List, Data_Structure_II_Day_11_Linked_List, Udemy_Linked_List, Big_O_Time_O(M+N)_Space_O(1) | 33 | 78.91
+| 0155 |[Min Stack](src/main/c/g0101_0200/s0155_min_stack/MinStack.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Stack, Design, Data_Structure_II_Day_14_Stack_Queue, Programming_Skills_II_Day_18, Level_2_Day_16_Design, Udemy_Design, Big_O_Time_O(1)_Space_O(N) | 0 | 100.00
+| 0153 |[Find Minimum in Rotated Sorted Array](src/main/c/g0101_0200/s0153_find_minimum_in_rotated_sorted_array/Solution.c)| Medium | Top_100_Liked_Questions, Array, Binary_Search, Algorithm_II_Day_2_Binary_Search, Binary_Search_I_Day_12, Udemy_Binary_Search, Big_O_Time_O(log_N)_Space_O(log_N) | 0 | 100.00
+| 0152 |[Maximum Product Subarray](src/main/c/g0101_0200/s0152_maximum_product_subarray/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Dynamic_Programming_I_Day_6, Level_2_Day_13_Dynamic_Programming, Udemy_Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
+| 0148 |[Sort List](src/main/c/g0101_0200/s0148_sort_list/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Sorting, Two_Pointers, Linked_List, Divide_and_Conquer, Merge_Sort, Level_2_Day_4_Linked_List, Big_O_Time_O(log(N))_Space_O(log(N)) | 3 | 100.00
 | 0146 |[LRU Cache](src/main/c/g0101_0200/s0146_lru_cache/LRUCache.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Design, Linked_List, Doubly_Linked_List, Udemy_Linked_List, Big_O_Time_O(1)_Space_O(capacity) | 37 | 91.67
 | 0142 |[Linked List Cycle II](src/main/c/g0101_0200/s0142_linked_list_cycle_ii/Solution.c)| Medium | Top_100_Liked_Questions, Hash_Table, Two_Pointers, Linked_List, Data_Structure_II_Day_10_Linked_List, Level_1_Day_4_Linked_List, Udemy_Linked_List, Big_O_Time_O(N)_Space_O(1) | 4 | 81.55
 | 0141 |[Linked List Cycle](src/main/c/g0101_0200/s0141_linked_list_cycle/Solution.c)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Two_Pointers, Linked_List, Data_Structure_I_Day_7_Linked_List, Udemy_Linked_List, Big_O_Time_O(N)_Space_O(1) | 6 | 92.85
