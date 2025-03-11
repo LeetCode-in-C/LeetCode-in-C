@@ -9,8 +9,6 @@ C-based LeetCode algorithm problem solutions, regularly updated.
 > ["For coding interview preparation, LeetCode is one of the best online resource providing a rich library of more than 300 real coding interview questions for you to practice from using one of the 7 supported languages - C, C++, Java, Python, C#, JavaScript, Ruby."](https://www.quora.com/How-effective-is-Leetcode-for-preparing-for-technical-interviews)
 
 ##
-* [Data Structure II](#data-structure-ii)
-* [Algorithm I](#algorithm-i)
 * [Algorithm II](#algorithm-ii)
 * [Binary Search I](#binary-search-i)
 * [Binary Search II](#binary-search-ii)
@@ -22,220 +20,10 @@ C-based LeetCode algorithm problem solutions, regularly updated.
 * [Level 1](#level-1)
 * [Level 2](#level-2)
 * [Udemy](#udemy)
+* [Top Interview 150](#top-interview-150)
 * [Data Structure I](#data-structure-i)
-
-### Data Structure II
-
-#### Day 1 Array
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0136 |[Single Number](src/main/c/g0101_0200/s0136_single_number/Solution.c)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Bit_Manipulation, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
-| 0169 |[Majority Element](src/main/c/g0101_0200/s0169_majority_element/Solution.c)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Sorting, Counting, Divide_and_Conquer, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
-| 0015 |[3Sum](src/main/c/g0001_0100/s0015_3sum/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Big_O_Time_O(n\*log(n))_Space_O(n^2) | 47 | 87.75
-
-#### Day 2 Array
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0075 |[Sort Colors](src/main/c/g0001_0100/s0075_sort_colors/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
-| 0056 |[Merge Intervals](src/main/c/g0001_0100/s0056_merge_intervals/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Big_O_Time_O(n_log_n)_Space_O(n) | 0 | 100.00
-
-#### Day 3 Array
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0048 |[Rotate Image](src/main/c/g0001_0100/s0048_rotate_image/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Matrix, Big_O_Time_O(n^2)_Space_O(1) | 0 | 100.00
-
-#### Day 4 Array
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0240 |[Search a 2D Matrix II](src/main/c/g0201_0300/s0240_search_a_2d_matrix_ii/Solution.c)| Medium | Top_100_Liked_Questions, Array, Binary_Search, Matrix, Divide_and_Conquer, Big_O_Time_O(n+m)_Space_O(1) | 42 | 96.34
-
-#### Day 5 Array
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0238 |[Product of Array Except Self](src/main/c/g0201_0300/s0238_product_of_array_except_self/Solution.c)| Medium | Top_100_Liked_Questions, Array, Prefix_Sum, Big_O_Time_O(n^2)_Space_O(n) | 0 | 100.00
-| 0560 |[Subarray Sum Equals K](src/main/c/g0501_0600/s0560_subarray_sum_equals_k/Solution.c)| Medium | Top_100_Liked_Questions, Array, Hash_Table, Prefix_Sum, Big_O_Time_O(n)_Space_O(n) | 20 | 100.00
-
-#### Day 6 String
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-
-#### Day 7 String
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0763 |[Partition Labels](src/main/c/g0701_0800/s0763_partition_labels/Solution.c)| Medium | String, Hash_Table, Greedy, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
-
-#### Day 8 String
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0049 |[Group Anagrams](src/main/c/g0001_0100/s0049_group_anagrams/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, String, Hash_Table, Sorting, Big_O_Time_O(n\*k_log_k)_Space_O(n) | 3 | 100.00
-
-#### Day 9 String
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0005 |[Longest Palindromic Substring](src/main/c/g0001_0100/s0005_longest_palindromic_substring/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 2 | 97.74
-
-#### Day 10 Linked List
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0002 |[Add Two Numbers](src/main/c/g0001_0100/s0002_add_two_numbers/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Math, Linked_List, Recursion, Big_O_Time_O(max(N,M))_Space_O(max(N,M)), AI_can_be_used_to_solve_the_task | 12 | 70.50
-| 0142 |[Linked List Cycle II](src/main/c/g0101_0200/s0142_linked_list_cycle_ii/Solution.c)| Medium | Top_100_Liked_Questions, Hash_Table, Two_Pointers, Linked_List, Big_O_Time_O(N)_Space_O(1) | 4 | 81.55
-
-#### Day 11 Linked List
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0160 |[Intersection of Two Linked Lists](src/main/c/g0101_0200/s0160_intersection_of_two_linked_lists/Solution.c)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Two_Pointers, Linked_List, Big_O_Time_O(M+N)_Space_O(1) | 33 | 78.91
-
-#### Day 12 Linked List
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0024 |[Swap Nodes in Pairs](src/main/c/g0001_0100/s0024_swap_nodes_in_pairs/Solution.c)| Medium | Top_100_Liked_Questions, Linked_List, Recursion, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
-
-#### Day 13 Linked List
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0025 |[Reverse Nodes in k-Group](src/main/c/g0001_0100/s0025_reverse_nodes_in_k_group/Solution.c)| Hard | Top_100_Liked_Questions, Linked_List, Recursion, Big_O_Time_O(n)_Space_O(k) | 0 | 100.00
-
-#### Day 14 Stack Queue
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0155 |[Min Stack](src/main/c/g0101_0200/s0155_min_stack/MinStack.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Stack, Design, Big_O_Time_O(1)_Space_O(N) | 0 | 100.00
-
-#### Day 15 Tree
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0105 |[Construct Binary Tree from Preorder and Inorder Traversal](src/main/c/g0101_0200/s0105_construct_binary_tree_from_preorder_and_inorder_traversal/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Tree, Binary_Tree, Divide_and_Conquer, Big_O_Time_O(N)_Space_O(N) | 3 | 95.24
-
-#### Day 16 Tree
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-
-#### Day 17 Tree
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0230 |[Kth Smallest Element in a BST](src/main/c/g0201_0300/s0230_kth_smallest_element_in_a_bst/Solution.c)| Medium | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Binary_Search_Tree, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
-
-#### Day 18 Tree
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0236 |[Lowest Common Ancestor of a Binary Tree](src/main/c/g0201_0300/s0236_lowest_common_ancestor_of_a_binary_tree/Solution.c)| Medium | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Big_O_Time_O(n)_Space_O(n) | 15 | 90.08
-
-#### Day 19 Graph
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-
-#### Day 20 Heap Priority Queue
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0215 |[Kth Largest Element in an Array](src/main/c/g0201_0300/s0215_kth_largest_element_in_an_array/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Heap_Priority_Queue, Divide_and_Conquer, Quickselect, Big_O_Time_O(n\*log(n))_Space_O(log(n)) | 0 | 100.00
-| 0347 |[Top K Frequent Elements](src/main/c/g0301_0400/s0347_top_k_frequent_elements/Solution.c)| Medium | Top_100_Liked_Questions, Array, Hash_Table, Sorting, Heap_Priority_Queue, Counting, Divide_and_Conquer, Quickselect, Bucket_Sort, Big_O_Time_O(n\*log(n))_Space_O(k) | 0 | 100.00
-
-#### Day 21 Heap Priority Queue
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-
-### Algorithm I
-
-#### Day 1 Binary Search
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0035 |[Search Insert Position](src/main/c/g0001_0100/s0035_search_insert_position/Solution.c)| Easy | Top_100_Liked_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
-
-#### Day 2 Two Pointers
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0189 |[Rotate Array](src/main/c/g0101_0200/s0189_rotate_array/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
-
-#### Day 3 Two Pointers
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0283 |[Move Zeroes](src/main/c/g0201_0300/s0283_move_zeroes/Solution.c)| Easy | Top_100_Liked_Questions, Array, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
-
-#### Day 4 Two Pointers
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-
-#### Day 5 Two Pointers
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0019 |[Remove Nth Node From End of List](src/main/c/g0001_0100/s0019_remove_nth_node_from_end_of_list/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Two_Pointers, Linked_List, Big_O_Time_O(L)_Space_O(L) | 0 | 100.00
-
-#### Day 6 Sliding Window
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0003 |[Longest Substring Without Repeating Characters](src/main/c/g0001_0100/s0003_longest_substring_without_repeating_characters/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n)_Space_O(1) | 15 | 29.93
-
-#### Day 7 Breadth First Search Depth First Search
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-
-#### Day 8 Breadth First Search Depth First Search
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-
-#### Day 9 Breadth First Search Depth First Search
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-
-#### Day 10 Recursion Backtracking
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0021 |[Merge Two Sorted Lists](src/main/c/g0001_0100/s0021_merge_two_sorted_lists/Solution.c)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Big_O_Time_O(m+n)_Space_O(m+n) | 0 | 100.00
-| 0206 |[Reverse Linked List](src/main/c/g0201_0300/s0206_reverse_linked_list/Solution.c)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
-
-#### Day 11 Recursion Backtracking
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0046 |[Permutations](src/main/c/g0001_0100/s0046_permutations/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Backtracking, Big_O_Time_O(n\*n!)_Space_O(n+n!) | 0 | 100.00
-
-#### Day 12 Dynamic Programming
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0070 |[Climbing Stairs](src/main/c/g0001_0100/s0070_climbing_stairs/Solution.c)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Memoization, Big_O_Time_O(n)_Space_O(n) | 1 | 100.00
-| 0198 |[House Robber](src/main/c/g0101_0200/s0198_house_robber/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
-
-#### Day 13 Bit Manipulation
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-
-#### Day 14 Bit Manipulation
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0136 |[Single Number](src/main/c/g0101_0200/s0136_single_number/Solution.c)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Bit_Manipulation, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
+* [Data Structure II](#data-structure-ii)
+* [Algorithm I](#algorithm-i)
 
 ### Algorithm II
 
@@ -1319,6 +1107,190 @@ C-based LeetCode algorithm problem solutions, regularly updated.
 |-|-|-|-|-|-
 | 0155 |[Min Stack](src/main/c/g0101_0200/s0155_min_stack/MinStack.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Stack, Design, Big_O_Time_O(1)_Space_O(N) | 0 | 100.00
 
+### Top Interview 150
+
+#### Top Interview 150 Array/String
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0169 |[Majority Element](src/main/c/g0101_0200/s0169_majority_element/Solution.c)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Sorting, Counting, Divide_and_Conquer, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
+| 0189 |[Rotate Array](src/main/c/g0101_0200/s0189_rotate_array/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
+| 0121 |[Best Time to Buy and Sell Stock](src/main/c/g0101_0200/s0121_best_time_to_buy_and_sell_stock/Solution.c)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
+| 0055 |[Jump Game](src/main/c/g0001_0100/s0055_jump_game/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
+| 0045 |[Jump Game II](src/main/c/g0001_0100/s0045_jump_game_ii/Solution.c)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
+| 0238 |[Product of Array Except Self](src/main/c/g0201_0300/s0238_product_of_array_except_self/Solution.c)| Medium | Top_100_Liked_Questions, Array, Prefix_Sum, Big_O_Time_O(n^2)_Space_O(n) | 0 | 100.00
+| 0042 |[Trapping Rain Water](src/main/c/g0001_0100/s0042_trapping_rain_water/Solution.c)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Two_Pointers, Stack, Monotonic_Stack, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
+| 0006 |[Zigzag Conversion](src/main/c/g0001_0100/s0006_zigzag_conversion/Solution.c)| Medium | String | 0 | 100.00
+
+#### Top Interview 150 Two Pointers
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0011 |[Container With Most Water](src/main/c/g0001_0100/s0011_container_with_most_water/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Greedy, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
+| 0015 |[3Sum](src/main/c/g0001_0100/s0015_3sum/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Big_O_Time_O(n\*log(n))_Space_O(n^2) | 47 | 87.75
+
+#### Top Interview 150 Sliding Window
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0003 |[Longest Substring Without Repeating Characters](src/main/c/g0001_0100/s0003_longest_substring_without_repeating_characters/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n)_Space_O(1) | 15 | 29.93
+| 0076 |[Minimum Window Substring](src/main/c/g0001_0100/s0076_minimum_window_substring/Solution.c)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(s.length())_Space_O(1) | 0 | 100.00
+
+#### Top Interview 150 Matrix
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0048 |[Rotate Image](src/main/c/g0001_0100/s0048_rotate_image/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Matrix, Big_O_Time_O(n^2)_Space_O(1) | 0 | 100.00
+| 0073 |[Set Matrix Zeroes](src/main/c/g0001_0100/s0073_set_matrix_zeroes/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Matrix, Big_O_Time_O(m\*n)_Space_O(1) | 0 | 100.00
+
+#### Top Interview 150 Hashmap
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0049 |[Group Anagrams](src/main/c/g0001_0100/s0049_group_anagrams/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, String, Hash_Table, Sorting, Big_O_Time_O(n\*k_log_k)_Space_O(n) | 3 | 100.00
+| 0001 |[Two Sum](src/main/c/g0001_0100/s0001_two_sum/Solution.c)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Big_O_Time_O(n)_Space_O(n), AI_can_be_used_to_solve_the_task | 2 | 99.56
+| 0128 |[Longest Consecutive Sequence](src/main/c/g0101_0200/s0128_longest_consecutive_sequence/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Union_Find, Big_O_Time_O(N_log_N)_Space_O(1) | 19 | 89.29
+
+#### Top Interview 150 Intervals
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0056 |[Merge Intervals](src/main/c/g0001_0100/s0056_merge_intervals/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Big_O_Time_O(n_log_n)_Space_O(n) | 0 | 100.00
+
+#### Top Interview 150 Stack
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0020 |[Valid Parentheses](src/main/c/g0001_0100/s0020_valid_parentheses/Solution.c)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, String, Stack, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
+| 0155 |[Min Stack](src/main/c/g0101_0200/s0155_min_stack/MinStack.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Stack, Design, Big_O_Time_O(1)_Space_O(N) | 0 | 100.00
+
+#### Top Interview 150 Linked List
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0141 |[Linked List Cycle](src/main/c/g0101_0200/s0141_linked_list_cycle/Solution.c)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Two_Pointers, Linked_List, Big_O_Time_O(N)_Space_O(1) | 6 | 92.85
+| 0002 |[Add Two Numbers](src/main/c/g0001_0100/s0002_add_two_numbers/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Math, Linked_List, Recursion, Big_O_Time_O(max(N,M))_Space_O(max(N,M)), AI_can_be_used_to_solve_the_task | 12 | 70.50
+| 0021 |[Merge Two Sorted Lists](src/main/c/g0001_0100/s0021_merge_two_sorted_lists/Solution.c)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Big_O_Time_O(m+n)_Space_O(m+n) | 0 | 100.00
+| 0138 |[Copy List with Random Pointer](src/main/c/g0101_0200/s0138_copy_list_with_random_pointer/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Linked_List, Big_O_Time_O(N)_Space_O(N) | 4 | 91.18
+| 0025 |[Reverse Nodes in k-Group](src/main/c/g0001_0100/s0025_reverse_nodes_in_k_group/Solution.c)| Hard | Top_100_Liked_Questions, Linked_List, Recursion, Big_O_Time_O(n)_Space_O(k) | 0 | 100.00
+| 0019 |[Remove Nth Node From End of List](src/main/c/g0001_0100/s0019_remove_nth_node_from_end_of_list/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Two_Pointers, Linked_List, Big_O_Time_O(L)_Space_O(L) | 0 | 100.00
+| 0146 |[LRU Cache](src/main/c/g0101_0200/s0146_lru_cache/LRUCache.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Design, Linked_List, Doubly_Linked_List, Big_O_Time_O(1)_Space_O(capacity) | 37 | 91.67
+
+#### Top Interview 150 Binary Tree General
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0104 |[Maximum Depth of Binary Tree](src/main/c/g0101_0200/s0104_maximum_depth_of_binary_tree/Solution.c)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(H) | 0 | 100.00
+| 0226 |[Invert Binary Tree](src/main/c/g0201_0300/s0226_invert_binary_tree/Solution.c)| Easy | Top_100_Liked_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
+| 0101 |[Symmetric Tree](src/main/c/g0101_0200/s0101_symmetric_tree/Solution.c)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(log(N)) | 0 | 100.00
+| 0105 |[Construct Binary Tree from Preorder and Inorder Traversal](src/main/c/g0101_0200/s0105_construct_binary_tree_from_preorder_and_inorder_traversal/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Tree, Binary_Tree, Divide_and_Conquer, Big_O_Time_O(N)_Space_O(N) | 3 | 95.24
+| 0114 |[Flatten Binary Tree to Linked List](src/main/c/g0101_0200/s0114_flatten_binary_tree_to_linked_list/Solution.c)| Medium | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Stack, Linked_List, Big_O_Time_O(N)_Space_O(N) | 0 | 100.00
+| 0124 |[Binary Tree Maximum Path Sum](src/main/c/g0101_0200/s0124_binary_tree_maximum_path_sum/Solution.c)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Depth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(N) | 0 | 100.00
+| 0236 |[Lowest Common Ancestor of a Binary Tree](src/main/c/g0201_0300/s0236_lowest_common_ancestor_of_a_binary_tree/Solution.c)| Medium | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Big_O_Time_O(n)_Space_O(n) | 15 | 90.08
+
+#### Top Interview 150 Binary Tree BFS
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0102 |[Binary Tree Level Order Traversal](src/main/c/g0101_0200/s0102_binary_tree_level_order_traversal/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(N) | 0 | 100.00
+
+#### Top Interview 150 Binary Search Tree
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0230 |[Kth Smallest Element in a BST](src/main/c/g0201_0300/s0230_kth_smallest_element_in_a_bst/Solution.c)| Medium | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Binary_Search_Tree, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
+| 0098 |[Validate Binary Search Tree](src/main/c/g0001_0100/s0098_validate_binary_search_tree/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Binary_Search_Tree, Big_O_Time_O(N)_Space_O(log(N)) | 0 | 100.00
+
+#### Top Interview 150 Graph General
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0200 |[Number of Islands](src/main/c/g0101_0200/s0200_number_of_islands/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Depth_First_Search, Breadth_First_Search, Matrix, Union_Find, Big_O_Time_O(M\*N)_Space_O(M\*N) | 14 | 96.18
+| 0207 |[Course Schedule](src/main/c/g0201_0300/s0207_course_schedule/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Graph, Topological_Sort, Big_O_Time_O(N)_Space_O(N) | 0 | 100.00
+
+#### Top Interview 150 Graph BFS
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+
+#### Top Interview 150 Trie
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0208 |[Implement Trie (Prefix Tree)](src/main/c/g0201_0300/s0208_implement_trie_prefix_tree/Trie.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Design, Trie, Big_O_Time_O(word.length())_or_O(prefix.length())_Space_O(N) | 7 | 100.00
+
+#### Top Interview 150 Backtracking
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0017 |[Letter Combinations of a Phone Number](src/main/c/g0001_0100/s0017_letter_combinations_of_a_phone_number/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Backtracking, Big_O_Time_O(4^n)_Space_O(n) | 0 | 100.00
+| 0046 |[Permutations](src/main/c/g0001_0100/s0046_permutations/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Backtracking, Big_O_Time_O(n\*n!)_Space_O(n+n!) | 0 | 100.00
+| 0039 |[Combination Sum](src/main/c/g0001_0100/s0039_combination_sum/Solution.c)| Medium | Top_100_Liked_Questions, Array, Backtracking, Big_O_Time_O(2^n)_Space_O(n+2^n) | 0 | 100.00
+| 0022 |[Generate Parentheses](src/main/c/g0001_0100/s0022_generate_parentheses/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Backtracking, Big_O_Time_O(2^n)_Space_O(n) | 0 | 100.00
+| 0079 |[Word Search](src/main/c/g0001_0100/s0079_word_search/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Matrix, Backtracking, Big_O_Time_O(4^(m\*n))_Space_O(m\*n) | 121 | 92.31
+
+#### Top Interview 150 Divide and Conquer
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0148 |[Sort List](src/main/c/g0101_0200/s0148_sort_list/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Sorting, Two_Pointers, Linked_List, Divide_and_Conquer, Merge_Sort, Big_O_Time_O(log(N))_Space_O(log(N)) | 3 | 100.00
+| 0023 |[Merge k Sorted Lists](src/main/c/g0001_0100/s0023_merge_k_sorted_lists/Solution.c)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Heap_Priority_Queue, Linked_List, Divide_and_Conquer, Merge_Sort, Big_O_Time_O(k\*n\*log(k))_Space_O(log(k)) | 0 | 100.00
+
+#### Top Interview 150 Kadane's Algorithm
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0053 |[Maximum Subarray](src/main/c/g0001_0100/s0053_maximum_subarray/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Divide_and_Conquer, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
+
+#### Top Interview 150 Binary Search
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0035 |[Search Insert Position](src/main/c/g0001_0100/s0035_search_insert_position/Solution.c)| Easy | Top_100_Liked_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
+| 0074 |[Search a 2D Matrix](src/main/c/g0001_0100/s0074_search_a_2d_matrix/Solution.c)| Medium | Top_100_Liked_Questions, Array, Binary_Search, Matrix, Big_O_Time_O(endRow+endCol)_Space_O(1) | 0 | 100.00
+| 0033 |[Search in Rotated Sorted Array](src/main/c/g0001_0100/s0033_search_in_rotated_sorted_array/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
+| 0034 |[Find First and Last Position of Element in Sorted Array](src/main/c/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
+| 0153 |[Find Minimum in Rotated Sorted Array](src/main/c/g0101_0200/s0153_find_minimum_in_rotated_sorted_array/Solution.c)| Medium | Top_100_Liked_Questions, Array, Binary_Search, Big_O_Time_O(log_N)_Space_O(log_N) | 0 | 100.00
+| 0004 |[Median of Two Sorted Arrays](src/main/c/g0001_0100/s0004_median_of_two_sorted_arrays/Solution.c)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Divide_and_Conquer, Big_O_Time_O(log(min(N,M)))_Space_O(1) | 0 | 100.00
+
+#### Top Interview 150 Heap
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0215 |[Kth Largest Element in an Array](src/main/c/g0201_0300/s0215_kth_largest_element_in_an_array/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Heap_Priority_Queue, Divide_and_Conquer, Quickselect, Big_O_Time_O(n\*log(n))_Space_O(log(n)) | 0 | 100.00
+| 0295 |[Find Median from Data Stream](src/main/c/g0201_0300/s0295_find_median_from_data_stream/MedianFinder.c)| Hard | Top_100_Liked_Questions, Sorting, Two_Pointers, Design, Heap_Priority_Queue, Data_Stream, Big_O_Time_O(n\*log_n)_Space_O(n) | 28 | 100.00
+
+#### Top Interview 150 Bit Manipulation
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0136 |[Single Number](src/main/c/g0101_0200/s0136_single_number/Solution.c)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Bit_Manipulation, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
+
+#### Top Interview 150 Math
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0009 |[Palindrome Number](src/main/c/g0001_0100/s0009_palindrome_number/Solution.c)| Easy | Math | 0 | 100.00
+
+#### Top Interview 150 1D DP
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0070 |[Climbing Stairs](src/main/c/g0001_0100/s0070_climbing_stairs/Solution.c)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Memoization, Big_O_Time_O(n)_Space_O(n) | 1 | 100.00
+| 0198 |[House Robber](src/main/c/g0101_0200/s0198_house_robber/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
+| 0139 |[Word Break](src/main/c/g0101_0200/s0139_word_break/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Dynamic_Programming, Trie, Memoization, Big_O_Time_O(M+max\*N)_Space_O(M+N+max) | 0 | 100.00
+| 0322 |[Coin Change](src/main/c/g0301_0400/s0322_coin_change/Solution.c)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Breadth_First_Search, Big_O_Time_O(m\*n)_Space_O(amount) | 22 | 87.50
+| 0300 |[Longest Increasing Subsequence](src/main/c/g0201_0300/s0300_longest_increasing_subsequence/Solution.c)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Binary_Search, Big_O_Time_O(n\*log_n)_Space_O(n) | 0 | 100.00
+
+#### Top Interview 150 Multidimensional DP
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0064 |[Minimum Path Sum](src/main/c/g0001_0100/s0064_minimum_path_sum/Solution.c)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Matrix, Big_O_Time_O(m\*n)_Space_O(m\*n) | 0 | 100.00
+| 0005 |[Longest Palindromic Substring](src/main/c/g0001_0100/s0005_longest_palindromic_substring/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 2 | 97.74
+| 0072 |[Edit Distance](src/main/c/g0001_0100/s0072_edit_distance/Solution.c)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n2) | 0 | 100.00
+| 0221 |[Maximal Square](src/main/c/g0201_0300/s0221_maximal_square/Solution.c)| Medium | Array, Dynamic_Programming, Matrix, Big_O_Time_O(m\*n)_Space_O(m\*n) | 0 | 100.00
+
 ### Data Structure I
 
 #### Day 1 Array
@@ -1404,6 +1376,219 @@ C-based LeetCode algorithm problem solutions, regularly updated.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0098 |[Validate Binary Search Tree](src/main/c/g0001_0100/s0098_validate_binary_search_tree/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Binary_Search_Tree, Big_O_Time_O(N)_Space_O(log(N)) | 0 | 100.00
+
+### Data Structure II
+
+#### Day 1 Array
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0136 |[Single Number](src/main/c/g0101_0200/s0136_single_number/Solution.c)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Bit_Manipulation, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
+| 0169 |[Majority Element](src/main/c/g0101_0200/s0169_majority_element/Solution.c)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Sorting, Counting, Divide_and_Conquer, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
+| 0015 |[3Sum](src/main/c/g0001_0100/s0015_3sum/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Big_O_Time_O(n\*log(n))_Space_O(n^2) | 47 | 87.75
+
+#### Day 2 Array
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0075 |[Sort Colors](src/main/c/g0001_0100/s0075_sort_colors/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
+| 0056 |[Merge Intervals](src/main/c/g0001_0100/s0056_merge_intervals/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Big_O_Time_O(n_log_n)_Space_O(n) | 0 | 100.00
+
+#### Day 3 Array
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0048 |[Rotate Image](src/main/c/g0001_0100/s0048_rotate_image/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Matrix, Big_O_Time_O(n^2)_Space_O(1) | 0 | 100.00
+
+#### Day 4 Array
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0240 |[Search a 2D Matrix II](src/main/c/g0201_0300/s0240_search_a_2d_matrix_ii/Solution.c)| Medium | Top_100_Liked_Questions, Array, Binary_Search, Matrix, Divide_and_Conquer, Big_O_Time_O(n+m)_Space_O(1) | 42 | 96.34
+
+#### Day 5 Array
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0238 |[Product of Array Except Self](src/main/c/g0201_0300/s0238_product_of_array_except_self/Solution.c)| Medium | Top_100_Liked_Questions, Array, Prefix_Sum, Big_O_Time_O(n^2)_Space_O(n) | 0 | 100.00
+| 0560 |[Subarray Sum Equals K](src/main/c/g0501_0600/s0560_subarray_sum_equals_k/Solution.c)| Medium | Top_100_Liked_Questions, Array, Hash_Table, Prefix_Sum, Big_O_Time_O(n)_Space_O(n) | 20 | 100.00
+
+#### Day 6 String
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+
+#### Day 7 String
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0763 |[Partition Labels](src/main/c/g0701_0800/s0763_partition_labels/Solution.c)| Medium | String, Hash_Table, Greedy, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
+
+#### Day 8 String
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0049 |[Group Anagrams](src/main/c/g0001_0100/s0049_group_anagrams/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, String, Hash_Table, Sorting, Big_O_Time_O(n\*k_log_k)_Space_O(n) | 3 | 100.00
+
+#### Day 9 String
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0005 |[Longest Palindromic Substring](src/main/c/g0001_0100/s0005_longest_palindromic_substring/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 2 | 97.74
+
+#### Day 10 Linked List
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0002 |[Add Two Numbers](src/main/c/g0001_0100/s0002_add_two_numbers/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Math, Linked_List, Recursion, Big_O_Time_O(max(N,M))_Space_O(max(N,M)), AI_can_be_used_to_solve_the_task | 12 | 70.50
+| 0142 |[Linked List Cycle II](src/main/c/g0101_0200/s0142_linked_list_cycle_ii/Solution.c)| Medium | Top_100_Liked_Questions, Hash_Table, Two_Pointers, Linked_List, Big_O_Time_O(N)_Space_O(1) | 4 | 81.55
+
+#### Day 11 Linked List
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0160 |[Intersection of Two Linked Lists](src/main/c/g0101_0200/s0160_intersection_of_two_linked_lists/Solution.c)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Two_Pointers, Linked_List, Big_O_Time_O(M+N)_Space_O(1) | 33 | 78.91
+
+#### Day 12 Linked List
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0024 |[Swap Nodes in Pairs](src/main/c/g0001_0100/s0024_swap_nodes_in_pairs/Solution.c)| Medium | Top_100_Liked_Questions, Linked_List, Recursion, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
+
+#### Day 13 Linked List
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0025 |[Reverse Nodes in k-Group](src/main/c/g0001_0100/s0025_reverse_nodes_in_k_group/Solution.c)| Hard | Top_100_Liked_Questions, Linked_List, Recursion, Big_O_Time_O(n)_Space_O(k) | 0 | 100.00
+
+#### Day 14 Stack Queue
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0155 |[Min Stack](src/main/c/g0101_0200/s0155_min_stack/MinStack.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Stack, Design, Big_O_Time_O(1)_Space_O(N) | 0 | 100.00
+
+#### Day 15 Tree
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0105 |[Construct Binary Tree from Preorder and Inorder Traversal](src/main/c/g0101_0200/s0105_construct_binary_tree_from_preorder_and_inorder_traversal/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Tree, Binary_Tree, Divide_and_Conquer, Big_O_Time_O(N)_Space_O(N) | 3 | 95.24
+
+#### Day 16 Tree
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+
+#### Day 17 Tree
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0230 |[Kth Smallest Element in a BST](src/main/c/g0201_0300/s0230_kth_smallest_element_in_a_bst/Solution.c)| Medium | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Binary_Search_Tree, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
+
+#### Day 18 Tree
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0236 |[Lowest Common Ancestor of a Binary Tree](src/main/c/g0201_0300/s0236_lowest_common_ancestor_of_a_binary_tree/Solution.c)| Medium | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Big_O_Time_O(n)_Space_O(n) | 15 | 90.08
+
+#### Day 19 Graph
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+
+#### Day 20 Heap Priority Queue
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0215 |[Kth Largest Element in an Array](src/main/c/g0201_0300/s0215_kth_largest_element_in_an_array/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Heap_Priority_Queue, Divide_and_Conquer, Quickselect, Big_O_Time_O(n\*log(n))_Space_O(log(n)) | 0 | 100.00
+| 0347 |[Top K Frequent Elements](src/main/c/g0301_0400/s0347_top_k_frequent_elements/Solution.c)| Medium | Top_100_Liked_Questions, Array, Hash_Table, Sorting, Heap_Priority_Queue, Counting, Divide_and_Conquer, Quickselect, Bucket_Sort, Big_O_Time_O(n\*log(n))_Space_O(k) | 0 | 100.00
+
+#### Day 21 Heap Priority Queue
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+
+### Algorithm I
+
+#### Day 1 Binary Search
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0035 |[Search Insert Position](src/main/c/g0001_0100/s0035_search_insert_position/Solution.c)| Easy | Top_100_Liked_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
+
+#### Day 2 Two Pointers
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0189 |[Rotate Array](src/main/c/g0101_0200/s0189_rotate_array/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
+
+#### Day 3 Two Pointers
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0283 |[Move Zeroes](src/main/c/g0201_0300/s0283_move_zeroes/Solution.c)| Easy | Top_100_Liked_Questions, Array, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
+
+#### Day 4 Two Pointers
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+
+#### Day 5 Two Pointers
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0019 |[Remove Nth Node From End of List](src/main/c/g0001_0100/s0019_remove_nth_node_from_end_of_list/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Two_Pointers, Linked_List, Big_O_Time_O(L)_Space_O(L) | 0 | 100.00
+
+#### Day 6 Sliding Window
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0003 |[Longest Substring Without Repeating Characters](src/main/c/g0001_0100/s0003_longest_substring_without_repeating_characters/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n)_Space_O(1) | 15 | 29.93
+
+#### Day 7 Breadth First Search Depth First Search
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+
+#### Day 8 Breadth First Search Depth First Search
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+
+#### Day 9 Breadth First Search Depth First Search
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+
+#### Day 10 Recursion Backtracking
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0021 |[Merge Two Sorted Lists](src/main/c/g0001_0100/s0021_merge_two_sorted_lists/Solution.c)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Big_O_Time_O(m+n)_Space_O(m+n) | 0 | 100.00
+| 0206 |[Reverse Linked List](src/main/c/g0201_0300/s0206_reverse_linked_list/Solution.c)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
+
+#### Day 11 Recursion Backtracking
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0046 |[Permutations](src/main/c/g0001_0100/s0046_permutations/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Backtracking, Big_O_Time_O(n\*n!)_Space_O(n+n!) | 0 | 100.00
+
+#### Day 12 Dynamic Programming
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0070 |[Climbing Stairs](src/main/c/g0001_0100/s0070_climbing_stairs/Solution.c)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Memoization, Big_O_Time_O(n)_Space_O(n) | 1 | 100.00
+| 0198 |[House Robber](src/main/c/g0101_0200/s0198_house_robber/Solution.c)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
+
+#### Day 13 Bit Manipulation
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+
+#### Day 14 Bit Manipulation
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0136 |[Single Number](src/main/c/g0101_0200/s0136_single_number/Solution.c)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Bit_Manipulation, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
 
 ## Algorithms
 
