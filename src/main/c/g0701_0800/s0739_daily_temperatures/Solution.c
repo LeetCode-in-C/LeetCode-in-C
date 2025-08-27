@@ -1,5 +1,6 @@
-// #Medium #Top_100_Liked_Questions #Array #Stack #Monotonic_Stack #Programming_Skills_II_Day_6
-// #Big_O_Time_O(n)_Space_O(n) #2024_11_08_Time_3_ms_(98.31%)_Space_68.5_MB_(94.81%)
+// #Medium #Top_100_Liked_Questions #Array #Stack #Monotonic_Stack #LeetCode_75_Monotonic_Stack
+// #Programming_Skills_II_Day_6 #Big_O_Time_O(n)_Space_O(n)
+// #2024_11_08_Time_3_ms_(98.31%)_Space_68.5_MB_(94.81%)
 
 #include <stdio.h>
 #include <stdlib.h>

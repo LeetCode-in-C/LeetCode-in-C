@@ -1,5 +1,6 @@
 // #Hard #Top_100_Liked_Questions #Sorting #Two_Pointers #Design #Heap_Priority_Queue #Data_Stream
-// #Big_O_Time_O(n*log_n)_Space_O(n) #2024_11_07_Time_28_ms_(100.00%)_Space_85.9_MB_(78.95%)
+// #Top_Interview_150_Heap #Big_O_Time_O(n*log_n)_Space_O(n)
+// #2024_11_07_Time_28_ms_(100.00%)_Space_85.9_MB_(78.95%)
 
 #include <stdio.h>
 #include <stdlib.h>

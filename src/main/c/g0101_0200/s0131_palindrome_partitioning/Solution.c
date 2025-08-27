@@ -1,5 +1,6 @@
-// #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Array #Hash_Table #Union_Find
-// #Big_O_Time_O(N_log_N)_Space_O(1) #2024_11_03_Time_19_ms_(89.29%)_Space_15.8_MB_(58.07%)
+// #Medium #Top_100_Liked_Questions #Top_Interview_Questions #String #Dynamic_Programming
+// #Backtracking #Big_O_Time_O(N*2^N)_Space_O(2^N*N)
+// #2024_11_03_Time_19_ms_(89.29%)_Space_15.8_MB_(58.07%)
 
 /**
  * Return an array of arrays of size *returnSize.

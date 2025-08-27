@@ -1,5 +1,6 @@
-// #Medium #Top_100_Liked_Questions #String #Stack #Recursion #Level_1_Day_14_Stack #Udemy_Strings
-// #Big_O_Time_O(n)_Space_O(n) #2024_11_07_Time_0_ms_(100.00%)_Space_9.1_MB_(21.38%)
+// #Medium #Top_100_Liked_Questions #String #Stack #Recursion #LeetCode_75_Stack
+// #Level_1_Day_14_Stack #Udemy_Strings #Big_O_Time_O(n)_Space_O(n)
+// #2024_11_07_Time_0_ms_(100.00%)_Space_9.1_MB_(21.38%)
 
 #include <stdio.h>
 #include <stdlib.h>

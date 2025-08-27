@@ -1,7 +1,7 @@
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #String #Hash_Table
 // #Dynamic_Programming #Trie #Memoization #Algorithm_II_Day_15_Dynamic_Programming
-// #Dynamic_Programming_I_Day_9 #Udemy_Dynamic_Programming #Big_O_Time_O(M+max*N)_Space_O(M+N+max)
-// #2024_11_03_Time_0_ms_(100.00%)_Space_8.3_MB_(26.03%)
+// #Dynamic_Programming_I_Day_9 #Udemy_Dynamic_Programming #Top_Interview_150_1D_DP
+// #Big_O_Time_O(M+max*N)_Space_O(M+N+max) #2024_11_03_Time_0_ms_(100.00%)_Space_8.3_MB_(26.03%)
 
 bool wordBreak(char* s, char** wordDict, int wordDictSize) {
     bool dp[strlen(s)+1];

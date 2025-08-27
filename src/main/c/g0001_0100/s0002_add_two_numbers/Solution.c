@@ -1,7 +1,7 @@
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Math #Linked_List #Recursion
 // #Data_Structure_II_Day_10_Linked_List #Programming_Skills_II_Day_15
-// #Big_O_Time_O(max(N,M))_Space_O(max(N,M)) #AI_can_be_used_to_solve_the_task
-// #2024_10_16_Time_12_ms_(70.50%)_Space_12.6_MB_(56.73%)
+// #Top_Interview_150_Linked_List #Big_O_Time_O(max(N,M))_Space_O(max(N,M))
+// #AI_can_be_used_to_solve_the_task #2024_10_16_Time_12_ms_(70.50%)_Space_12.6_MB_(56.73%)
 
 /**
  * Definition for singly-linked list.

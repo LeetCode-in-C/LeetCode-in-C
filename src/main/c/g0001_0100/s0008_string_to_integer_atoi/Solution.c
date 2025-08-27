@@ -1,4 +1,5 @@
-// #Medium #Top_Interview_Questions #String #2024_10_28_Time_0_ms_(100.00%)_Space_8.5_MB_(69.69%)
+// #Medium #Top_Interview_Questions #String #Big_O_Time_O(n)_Space_O(n)
+// #2024_10_28_Time_0_ms_(100.00%)_Space_8.5_MB_(69.69%)
 
 #include <stdio.h>
 #include <limits.h>
