@@ -1,5 +1,6 @@
-// #Easy #Dynamic_Programming #Bit_Manipulation #Udemy_Bit_Manipulation
-// #Big_O_Time_O(num)_Space_O(num) #2024_11_07_Time_0_ms_(100.00%)_Space_15_MB_(36.75%)
+// #Easy #Dynamic_Programming #Bit_Manipulation #LeetCode_75_Bit_Manipulation
+// #Udemy_Bit_Manipulation #Big_O_Time_O(num)_Space_O(num)
+// #2024_11_07_Time_0_ms_(100.00%)_Space_15_MB_(36.75%)
 
 #include <stdio.h>
 #include <stdlib.h>

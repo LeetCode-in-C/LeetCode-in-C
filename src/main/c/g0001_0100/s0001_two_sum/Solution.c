@@ -1,6 +1,7 @@
 // #Easy #Top_100_Liked_Questions #Top_Interview_Questions #Array #Hash_Table
-// #Data_Structure_I_Day_2_Array #Level_1_Day_13_Hashmap #Udemy_Arrays #Big_O_Time_O(n)_Space_O(n)
-// #AI_can_be_used_to_solve_the_task #2024_10_16_Time_2_ms_(99.56%)_Space_8.6_MB_(40.96%)
+// #Data_Structure_I_Day_2_Array #Level_1_Day_13_Hashmap #Udemy_Arrays #Top_Interview_150_Hashmap
+// #Big_O_Time_O(n)_Space_O(n) #AI_can_be_used_to_solve_the_task
+// #2024_10_16_Time_2_ms_(99.56%)_Space_8.6_MB_(40.96%)
 
 /**
  * Note: The returned array must be malloced, assume caller calls free().

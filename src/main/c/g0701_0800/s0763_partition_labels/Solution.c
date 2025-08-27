@@ -1,5 +1,6 @@
-// #Medium #String #Hash_Table #Greedy #Two_Pointers #Data_Structure_II_Day_7_String
-// #Big_O_Time_O(n)_Space_O(1) #2024_11_08_Time_0_ms_(100.00%)_Space_9.1_MB_(17.39%)
+// #Medium #Top_100_Liked_Questions #String #Hash_Table #Greedy #Two_Pointers
+// #Data_Structure_II_Day_7_String #Big_O_Time_O(n)_Space_O(1)
+// #2024_11_08_Time_0_ms_(100.00%)_Space_9.1_MB_(17.39%)
 
 #include <stdio.h>
 #include <stdlib.h>

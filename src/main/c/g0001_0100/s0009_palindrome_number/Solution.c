@@ -1,4 +1,5 @@
-// #Easy #Math #Udemy_Integers #2024_10_28_Time_0_ms_(100.00%)_Space_8_MB_(63.90%)
+// #Easy #Math #Udemy_Integers #Top_Interview_150_Math #Big_O_Time_O(log10(x))_Space_O(1)
+// #2024_10_28_Time_0_ms_(100.00%)_Space_8_MB_(63.90%)
 
 #include <stdio.h>
 #include <stdbool.h>
